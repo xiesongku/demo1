@@ -7,5 +7,6 @@ public class Test {
         System.out.println("hhhhhhhh");
         System.out.println("git 不如svn好用");
         System.out.println(7890);
+        System.out.println("zzZ");
     }
 }
