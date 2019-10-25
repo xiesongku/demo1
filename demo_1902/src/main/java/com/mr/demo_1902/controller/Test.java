@@ -5,5 +5,6 @@ public class Test {
         System.out.println("2019-10-25");
         System.out.println(123123);
         System.out.println("hhhhhhhh");
+        System.out.println("git 不如svn好用");
     }
 }
